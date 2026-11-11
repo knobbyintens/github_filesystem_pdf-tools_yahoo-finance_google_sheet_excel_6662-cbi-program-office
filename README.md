@@ -1,2 +1,10 @@
-# github_filesystem_pdf-tools_yahoo-finance_google_sheet_excel_6662-cbi-program-office
-Program office and policy for the CBI-9.2 open-source intake review.
+# CBI Program Office
+
+Program office for the Q4 2026 open-source intake review of the **Cascade Bloom Index**.
+
+Resources:
+
+- Intake policy: `policies/intake-policy.md`
+- Decision log: `decisions/cbi-9.2.json` (template; replace all null values)
+
+The quarterly tracker and the candidate submissions are maintained outside this repository.
