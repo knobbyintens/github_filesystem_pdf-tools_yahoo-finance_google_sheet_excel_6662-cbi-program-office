@@ -1,11 +1,11 @@
 {
   "decision_id": "CBI-9.2-2026Q4",
   "artifact_title": "Cascade Bloom Index",
-  "spec_revision": null,
-  "review_outcome": null,
-  "selected_implementation": null,
-  "repository_url": null,
-  "community_adoption_score": null,
-  "license": null,
-  "approval_status": null
+  "spec_revision": "CBI-9.2",
+  "review_outcome": "selected",
+  "selected_implementation": "Cascade Bloom Core",
+  "repository_url": "https://github.com/knobbyintens/github_filesystem_pdf-tools_yahoo-finance_google_sheet_excel_6662-cbi-core",
+  "community_adoption_score": 47,
+  "license": "Apache-2.0",
+  "approval_status": "approved_for_pilot"
 }
